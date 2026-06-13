@@ -1,0 +1,7 @@
+{
+  "prefix": "/",
+  "language": "en",
+  "adminIDs": ["YOUR_UID_HERE"],
+  "port": 3000,
+  "environment": "development"
+}
